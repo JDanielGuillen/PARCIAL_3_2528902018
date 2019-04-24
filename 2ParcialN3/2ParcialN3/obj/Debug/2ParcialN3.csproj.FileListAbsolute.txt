@@ -1,0 +1,10 @@
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\bin\Debug\2ParcialN3.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\_2ParcialN3.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\_2ParcialN3.Form2.resources
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\_2ParcialN3.MDIParent1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\_2ParcialN3.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\2ParcialN3.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\bin\Debug\2ParcialN3.exe
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\bin\Debug\2ParcialN3.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\2ParcialN3.exe
+c:\users\lab3\documents\visual studio 2013\Projects\2ParcialN3\2ParcialN3\obj\Debug\2ParcialN3.pdb
